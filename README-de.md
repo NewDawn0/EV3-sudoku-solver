@@ -19,8 +19,8 @@ Klone das Projekt auf ihr Gerät</br>
 Gehen sie in den EV3-Sudoku-Solver-Ordner</br>
 Öffnen Sie den Ordner in VSCode</br>
 ```bash
-git clone <projectName>
-cd ev3-sudoku-solver
+git clone https://github.com/NewDawn0/EV3-sudoku-solver
+cd EV3-sudoku-solver
 code .
 ```
 Installiere die [EV3 VS Code](https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython) Erweiterung und verbinde sie mit deinem EV3-Gerät</br>
